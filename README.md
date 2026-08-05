@@ -42,6 +42,7 @@ I am a reporting and business analytics professional with extensive experience i
 - 🏥 Healthcare SQL Case Studies
 - 🍽️ Restaurant SQL Case Studies
 - 🎓 University SQL Case Studies
+- 🐍 Employee Project Analysis (Python)
 
 *(Project repositories are continuously being updated.)*
 
