@@ -2,9 +2,7 @@
 
 ## 📊 Data Analyst | Business Analytics | Reporting & Operations Analytics
 
-I am an analytics professional with **10+ years of experience** in shipping logistics operations, reporting, KPI tracking, dashboard development, and business process improvement.
-
-My passion lies in transforming raw business data into meaningful insights that support better decision-making. I enjoy transforming business data into actionable insights by building interactive dashboards, identifying trends, and supporting data-driven decision-making.
+I am a reporting and business analytics professional with extensive experience in shipping logistics operations, KPI reporting, dashboard development, and process improvement. I enjoy using SQL, Power BI, and Excel to transform business data into actionable insights by building interactive dashboards, identifying trends, and supporting data-driven decision-making.
 
 ---
 
@@ -12,7 +10,7 @@ My passion lies in transforming raw business data into meaningful insights that 
 
 - 📍 Based in Bangalore, India
 - 💼 Former Process Supervisor with 10+ years of experience in Shipping Logistics Operations & Reporting
-- 📈 Actively seeking Data Analyst, Reporting Analyst, and Business Analyst opportunities
+- 📈 Actively seeking opportunities as a Data Analyst, Business Analyst, or Reporting Analyst.
 - 🎯 Interested in Data Analyst, Reporting Analyst and Business Analyst roles
 - 🌱 Currently expanding my portfolio with real-world analytics projects
 
@@ -20,28 +18,30 @@ My passion lies in transforming raw business data into meaningful insights that 
 
 ## 🛠️ Technical Skills
 
-- Microsoft Excel
 - SQL
 - Power BI
+- Microsoft Excel
+- PostgreSQL
 - Python
 - Pandas
 - NumPy
-- DAX
 - Power Query
-- KPI Reporting
+- DAX
+- Business Analytics
 - Dashboard Development
 - Root Cause Analysis
-- Business Analytics
+- KPI Reporting
 
 ---
 
 ## 📂 Featured Projects
 
-- 📊 Power BI Sales Dashboard (SkilloVilla)
-- 🗄 SQL Business Analysis (SkilloVilla)
-- 🐍 Python Data Analysis (SkilloVilla)
-- 📈 Excel Business Analytics (SkilloVilla)
-- 🗄 SQL Business Insights
+- 📊 ShopNest Sales Dashboard (Power BI)
+- 🛒 E-commerce SQL Case Studies
+- 🚢 Northwind SQL Case Studies
+- 🏥 Healthcare SQL Case Studies
+- 🍽️ Restaurant SQL Case Studies
+- 🎓 University SQL Case Studies
 
 *(Project repositories are continuously being updated.)*
 
