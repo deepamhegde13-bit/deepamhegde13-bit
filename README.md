@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | Business Analytics | Reporting & Operations Analytics
 
-I am a reporting and business analytics professional with extensive experience in shipping logistics operations, KPI reporting, dashboard development, and process improvement. I enjoy using SQL, Power BI, and Excel to transform business data into actionable insights by building interactive dashboards, identifying trends, and supporting data-driven decision-making.
+I am a reporting and operations analytics professional with extensive experience in shipping logistics operations, KPI reporting, dashboard development, and process improvement. I enjoy using SQL, Power BI, and Excel to transform business data into actionable insights by building interactive dashboards, identifying trends, and supporting data-driven decision-making.
 
 ---
 
