@@ -9,10 +9,10 @@ I am a reporting and operations analytics professional with extensive experience
 ## 👩‍💼 About Me
 
 - 📍 Based in Bangalore, India
-- 💼 Former Process Supervisor with 10+ years of experience in Shipping Logistics Operations & Reporting
-- 📈 Actively seeking opportunities as a Data Analyst, Business Analyst, or Reporting Analyst.
-- 🎯 Interested in Data Analyst, Reporting Analyst and Business Analyst roles
-- 🌱 Currently expanding my portfolio with real-world analytics projects
+- 💼 Former Process Supervisor with 11+ years of experience in shipping logistics operations and reporting
+- 📊 Transitioning into Data Analytics, with a focus on SQL, Power BI, Python, and Excel
+- 🎯 Seeking opportunities as a Data Analyst, Business Analyst, or Reporting Analyst
+- 🌱 Building hands-on analytics projects to strengthen my technical and business problem-solving skills
 
 ---
 
@@ -36,15 +36,15 @@ I am a reporting and operations analytics professional with extensive experience
 
 ## 📂 Featured Projects
 
-- 📊 ShopNest Sales Dashboard (Power BI)
-- 🛒 E-commerce SQL Case Studies
-- 🚢 Northwind SQL Case Studies
-- 🏥 Healthcare SQL Case Studies
-- 🍽️ Restaurant SQL Case Studies
-- 🎓 University SQL Case Studies
-- 🐍 Employee Project Analysis (Python)
+- 📊 [ShopNest Sales Dashboard (Power BI)](https://github.com/deepamhegde13-bit/shopnest-sales-dashboard) — An interactive dashboard exploring sales, customer behaviour, payments, and delivery performance.
+- 🛒 [E-commerce SQL Case Studies](https://github.com/deepamhegde13-bit/ecommerce-sql-case-studies) — SQL business case studies using PostgreSQL, joins, CTEs, and window functions.
+- 🚢 [Northwind SQL Case Studies](https://github.com/deepamhegde13-bit/northwind-sql-case-studies) — SQL analysis of business scenarios using the Northwind database.
+- 🏥 [Healthcare SQL Case Studies](https://github.com/deepamhegde13-bit/healthcare-sql-case-studies) — SQL case studies focused on healthcare data.
+- 🍽️ [Restaurant SQL Case Studies](https://github.com/deepamhegde13-bit/restaurant-sql-case-studies) — SQL analysis of restaurant-related business scenarios.
+- 🎓 [University SQL Case Studies](https://github.com/deepamhegde13-bit/university-sql-case-studies) — SQL queries for university analytics and business reporting.
+- 🐍 [Employee Project Analysis (Python)](https://github.com/deepamhegde13-bit/employee-project-python-analysis) — Employee data cleaning, transformation, analysis, and reporting using Python and Pandas.
 
-*(Project repositories are continuously being updated.)*
+*Projects are being developed and refined as part of my ongoing analytics learning journey.*
 
 ---
 
